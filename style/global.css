@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.davlet {
+  display: flex;
+  width: 100%;
+}
+.davlet__h1 {
+  font-size: 20px;
+  text-align: center;
+  color: blueviolet;
+  padding-top: 50px;
+}
+.davlet__img {
+  width: 200px;
+  height: 200px;
+}
+
+.frontend__h2 {
+  text-align: center;
+  color: blue;
+  padding-bottom: 10px;
+}
+.frontend__vd {
+  background-color: red;
+}
+.frontend__p {
+  text-align: center;
+  color: chocolate;
+}
+.frontend__btn1 {
+  margin-left: 20px;
+  padding: 5px 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px 5px orange;
+}
+.frontend__a {
+  font-size: 20px;
+  color: rebeccapurple;
+  padding-bottom: 20px;
+}/*# sourceMappingURL=global.css.map */

@@ -1,0 +1,23 @@
+.back{
+    &__p1{
+        font-size: 24px;
+        padding-top: 20px;
+        color: red;
+    }
+    &__p2{
+        color: green;
+        font-size: 15px;
+        }
+     &__btn1{
+        margin-left: 20px;
+        padding: 5px 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 3px 5px orange;
+        margin-top: 150px;
+        margin-left: 5px;
+    }
+    &__a{
+        text-decoration: none;
+        font-size: 18px;
+    }
+}

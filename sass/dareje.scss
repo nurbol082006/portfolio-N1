@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: #fff;
+}
+.paragrapf {
+  &__p {
+    text-align: center;
+  }
+  &__btn {
+    margin-top: 150px;
+    margin-left: 20px;
+    padding: 8px 10px;
+    border-radius: 15px;
+  }
+  &__a{
+    text-decoration: none;
+  }
+}
